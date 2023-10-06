@@ -272,7 +272,7 @@ body .main-content .goals .circle-wrapper .industry-circle li:hover div,
 body .main-content .goals .circle-wrapper .industry-circle li:focus div,
 body .main-content .goals .circle-wrapper .business-circle li:hover div,
 body .main-content .goals .circle-wrapper .business-circle li:focus div {
-    background-color: #000;
+    background-color: rgb(61,90,136);
 }
 
 body .main-content .goals .circle-wrapper .industry-circle li:hover div p,
@@ -583,7 +583,7 @@ body .main-content .goals .question-qt {
 }
 .btn_heading:hover{
     color: #fff;
-    background-color: #000;
+    background-color: rgb(61,90,136);
 }
 
 @media (max-width: 1800px) {
