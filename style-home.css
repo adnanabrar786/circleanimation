@@ -553,7 +553,7 @@ body .main-content .goals .content .right {
 
 body .main-content .goals .animate-icon {
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, 50px);
     width: 250px;
@@ -561,7 +561,11 @@ body .main-content .goals .animate-icon {
 }
 
 body .main-content .goals .animate-icon .avolox-icon {
-    height: auto;
+    height: 170px;
+    width: 280px;
+
+    /* height: 130px;
+    width: 200px; */
 }
 
 body .main-content .goals .animate-icon.custom-size {
@@ -1075,6 +1079,11 @@ body .main-content .goals .question-qt {
     body .main-content .goals .animate-icon {
         top: unset;
         bottom: -90px;
+    }
+
+    body .main-content .goals .animate-icon .avolox-icon {
+        height: 140px;
+        width: 220px;
     }
 
     body .main-content .goals .tab-content .tab-pane {
